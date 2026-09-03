@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/department/page": "app/department/page.js",
+  "/clinical/page": "app/clinical/page.js",
+  "/formulas/page": "app/formulas/page.js",
+  "/financial/page": "app/financial/page.js",
+  "/operational/page": "app/operational/page.js",
+  "/page": "app/page.js",
+  "/predictive/page": "app/predictive/page.js"
+}
